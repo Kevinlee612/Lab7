@@ -1,9 +1,114 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "author": "erew",
+      "title": "wer",
+      "id": 1
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 2
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 3
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 4
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 5
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 6
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 7
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 8
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 9
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 10
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 11
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 12
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 13
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 14
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 15
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 16
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 17
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 18
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 19
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 20
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 21
+    },
+    {
+      "author": "",
+      "title": "",
+      "id": 22
     }
   ],
   "comments": [
